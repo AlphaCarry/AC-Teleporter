@@ -1,0 +1,3 @@
+-Basic teleport script 
+-Works standalone (withoot any framework) 
+-You need copy/paste vector3(x,y,z)
